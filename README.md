@@ -148,21 +148,24 @@ ii) Using Weighted Averaging Filter
 
 
 iii) Using Gaussian Filter
+
 ![Screenshot 2024-03-19 103812](https://github.com/premalatha-sureshbabu/Implementation-of-filter/assets/120620842/f89ff184-1e52-436d-8fac-2a36a3c71238)
 
 
 iv) Using Median Filter
+
 ![Screenshot 2024-03-19 103819](https://github.com/premalatha-sureshbabu/Implementation-of-filter/assets/120620842/28002ad3-0f4b-48fe-8076-ec7a0b154913)
 
 
 ### 2. Sharpening Filters
-</br>
 
 i) Using Laplacian Kernal
+
 ![Screenshot 2024-03-19 103828](https://github.com/premalatha-sureshbabu/Implementation-of-filter/assets/120620842/3724b0b0-30d7-435d-8f97-c345dee8e895)
 
 
 ii) Using Laplacian Operator
+
 ![Screenshot 2024-03-19 103836](https://github.com/premalatha-sureshbabu/Implementation-of-filter/assets/120620842/32549ae9-4f98-40b0-b4cf-398f071e0da0)
 
 
