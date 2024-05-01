@@ -33,8 +33,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By   :S.Prema Latha
-### Register Number:212222230112
+### Developed By   :D.Vinitha Naidu
+### Register Number:212222230175
 </br>
 
 ### 1. Smoothing Filters
